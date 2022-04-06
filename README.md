@@ -1,12 +1,15 @@
 # segundaprueva
-crear 
 
+En el curo de BBDD relacionales se ha tenido que hacer un examen, El modelo MF0226_3, en el, un a de las cosas que se te pedia
+era realiazr unas colsultas y subirlos a GitHub. Creamos un proyecto Maven desde cero y decidí subir las respuestas en el
+readme.
 
+perdoname las faltas de ortografia.
 
-##Ejercicios
+##Ejercicios y respuestas
 
 En el examen te pedia una serie de consultas. 
-Acontinuacion la resolucion de los ejercicios con la redaccion de este.
+A continuacion la resolucion de los ejercicios con sus enunciados.
 
 
 ````
